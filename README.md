@@ -37,9 +37,8 @@ This Voting System web application built using Django can serve as the automated
 ### B. Voters Can
 1. Register
 2. Login
-3. Verify with OTP (This can be overwritten in `settings.py` file)
-4. Votes for their favourite candidates
-5. View candidates they voted for
+3. Votes for their favourite candidates
+4. View candidates they voted for
 
 ## 📸 ScreenShots
 <figure>
@@ -66,21 +65,6 @@ This Voting System web application built using Django can serve as the automated
 |<img src="ss/admin/12.png" width="400">|<img src="ss/voter/12.png" width="400">|
 |<img src="ss/admin/13.png" width="400">|<img src="ss/voter/13.png" width="400">|
 |<img src="ss/admin/14.png" width="400">|<img src="ss/voter/14.png" width="400">|
-|<img src="ss/admin/15.png" width="400">|------- ------ ------ ------|
-|<img src="ss/admin/16.png" width="400">|------- ------ ------ ------|
-|<img src="ss/admin/17.png" width="400">|------- ------ ------ ------|
-|<img src="ss/admin/18.png" width="400">|------- ------ ------ ------|
-
-
-
-
-## Support Developer
-1. Add a Star 🌟  to this 👆 Repository
-2. Follow on Twitter/Github
-
-
-## Passport/Images
-Images are from [Unsplash](https://unsplash.com) 
 
 
 
