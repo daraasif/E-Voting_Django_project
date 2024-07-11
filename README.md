@@ -41,7 +41,6 @@ This Voting System web application built using Django can serve as the automated
 4. View candidates they voted for
 
 ## 📸 ScreenShots
-|ScreenShots👇👇👇|
 |<img src="ss/admin/1.png" width="400">|<img src="ss/voter/1.png" width="400">|
 |<img src="ss/admin/2.png" width="400">|<img src="ss/voter/2.png" width="400">|
 |<img src="ss/admin/3.png" width="400">|<img src="ss/voter/3.png" width="400">|
