@@ -41,13 +41,6 @@ This Voting System web application built using Django can serve as the automated
 4. View candidates they voted for
 
 ## 📸 ScreenShots
-<figure>
-  <img
-  src="ss/DB.png"
-  alt="The beautiful MDN logo.">
-  <figcaption>Database Design</figcaption>
-</figure>
-
 
 | Admin| Voter|
 |------|-------|
